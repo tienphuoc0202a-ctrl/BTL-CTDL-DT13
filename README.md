@@ -82,6 +82,7 @@ Mở trực tiếp file `single_file/PrintSpooler_AllInOne.cpp` trong Dev-C++, b
 g++ -std=c++17 -Wall -Wextra -O2 tests/test_spooler.cpp -o test_spooler
 ./test_spooler
 ```
+
 ### 5. Kết quả kiểm thử và Benchmark
 
 **Kết quả kiểm thử tự động:**
@@ -98,6 +99,3 @@ g++ -std=c++17 -Wall -Wextra -O2 tests/test_spooler.cpp -o test_spooler
 - BinarySearch nhanh hơn LinearSearch trong các truy vấn trên dữ liệu đã sắp xếp.
 
 **Kết luận:** Hệ thống đáp ứng các chức năng hàng đợi FIFO, xử lý tràn bộ đệm, hủy lệnh, lưu trữ dữ liệu và tìm kiếm, sắp xếp.
-
-
-
