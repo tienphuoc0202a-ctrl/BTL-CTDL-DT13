@@ -1,6 +1,6 @@
 #ifndef PRINT_SPOOLER_H
 #define PRINT_SPOOLER_H
-
+#include <sstream>
 #include "PrintJob.h"
 #include "CircularQueue.h"
 #include "LinkedQueue.h"
