@@ -1,0 +1,24 @@
+# Binaries & build outputs
+*.exe
+*.out
+*.o
+*.obj
+print_spooler
+test_spooler
+build/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+*.dev
+
+# Temporary runtime files
+data/test_state.csv
+data/test_report.txt
+data/spooler_state.csv
+data/spooler_report.txt
+.DS_Store
+Thumbs.db

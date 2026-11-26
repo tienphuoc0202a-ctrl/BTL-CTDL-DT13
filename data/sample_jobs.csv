@@ -1,0 +1,10 @@
+# Mau du lieu lenh in cho DT13 - He thong Hang doi In an Van phong
+id,documentName,senderName,pages,sizeKB,timestamp,status
+1,BaoCao_TaiChinh_Q4.pdf,Nguyen Van An,24,1450.5,2026-11-19 08:05:10,WAITING_BUFFER
+2,HopDong_LaoDong_2026.docx,Tran Thi Bich,6,320.0,2026-11-19 08:07:22,WAITING_BUFFER
+3,Slide_HopGiaoBan_Tuan47.pptx,Le Minh Cuong,18,4820.8,2026-11-19 08:10:05,WAITING_BUFFER
+4,BangLuong_PhongIT_T11.xlsx,Pham Quoc Dung,12,680.4,2026-11-19 08:12:41,WAITING_BUFFER
+5,KeHoach_DaoTao_NoiBo.pdf,Ho Tien Phuoc,35,2150.0,2026-11-19 08:15:00,WAITING_BUFFER
+6,DeCuong_KHM05_3_CDIO.docx,Ho Tien Phuoc,15,910.2,2026-11-19 08:16:30,WAITING_BUFFER
+7,BienBan_NghiemThu_ThietBi.pdf,Vo Hoang Gia,8,540.0,2026-11-19 08:18:12,WAITING_BUFFER
+8,HoaDon_VAT_Thang11.pdf,Dang Thu Ha,3,185.6,2026-11-19 08:20:45,WAITING_BUFFER
