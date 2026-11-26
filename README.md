@@ -81,4 +81,22 @@ Mở trực tiếp file `single_file/PrintSpooler_AllInOne.cpp` trong Dev-C++, b
 ```bash
 g++ -std=c++17 -Wall -Wextra -O2 tests/test_spooler.cpp -o test_spooler
 ./test_spooler
-```
+```### 5. Kết quả kiểm thử và Benchmark
+
+**Kết quả kiểm thử tự động:**
+- TC01: CircularQueue FIFO, Wrap-Around và Remove-Middle: PASS.
+- TC02: LinkedQueue cấp phát động, FIFO và Remove: PASS.
+- TC03: Buffer Overflow với 3 chính sách và Auto-Promotion FIFO: PASS.
+- TC04: CSV Import, Save/Load, Search và QuickSort: PASS.
+
+**Tổng kết: 4/4 kiểm thử thành công.**
+
+**Kết quả Benchmark:**
+- CircularQueue có tốc độ Enqueue/Dequeue tốt hơn LinkedQueue trong các lần đo.
+- QuickSort nhanh hơn InsertionSort rõ rệt khi số lượng phần tử tăng.
+- BinarySearch nhanh hơn LinearSearch trong các truy vấn trên dữ liệu đã sắp xếp.
+
+**Kết luận:** Hệ thống đáp ứng các chức năng hàng đợi FIFO, xử lý tràn bộ đệm, hủy lệnh, lưu trữ dữ liệu và tìm kiếm, sắp xếp.
+
+
+
