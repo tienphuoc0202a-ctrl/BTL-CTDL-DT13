@@ -81,7 +81,8 @@ Mở trực tiếp file `single_file/PrintSpooler_AllInOne.cpp` trong Dev-C++, b
 ```bash
 g++ -std=c++17 -Wall -Wextra -O2 tests/test_spooler.cpp -o test_spooler
 ./test_spooler
-```### 5. Kết quả kiểm thử và Benchmark
+```
+### 5. Kết quả kiểm thử và Benchmark
 
 **Kết quả kiểm thử tự động:**
 - TC01: CircularQueue FIFO, Wrap-Around và Remove-Middle: PASS.
